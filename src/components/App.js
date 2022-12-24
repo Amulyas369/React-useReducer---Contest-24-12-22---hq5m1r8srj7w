@@ -9,7 +9,7 @@ const ACTIONS = {
   SET_ADD_NUM: "setAddNum"
 };
 const initialState={
-  count:0,
+  count:10,
   subNum:1,
   addNum:1
 };
